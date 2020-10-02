@@ -9,6 +9,7 @@ See it in action: https://codepen.io/russelltchang/full/ZoLLwN/.
 * I can start and stop the board.
 * I can set up the board.
 * I can clear the board.
+* The board can be cleared using the bin button and reset using the green button.
 * When I press start, the game will play out.
 * Each time the board changes, I can see how many generations have gone by.
 
